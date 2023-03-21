@@ -1,16 +1,16 @@
-### Hi there 👋
+![Introductory banner that reads: "Hi, I'm João Pedro"](./Banner_github.jpg)
 
-<!--
-**jpsaiago/jpsaiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who's talking?
+### Hi! I'm João Pedro (he/him)!
+- #### 👨‍💻 Software Engineering major
+- #### 🖥️ Huge computer nerd since I was a little boy
+- #### 🤹‍♀️ Self learner who always picks up a new hobby
+- #### 🖌 And occasional artist and storyteller
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/jpsaiago/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpsaiago&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/jpsaiago/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsaiago&show_icons=true&theme=dracula" />
+</a>
