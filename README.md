@@ -1,4 +1,4 @@
-![Introductory banner that reads: "Hi, I'm João Pedro"](./Banner_github.jpg)
+![Introductory banner that reads: "Hi, I'm João Pedro"](./cover.png)
 
 # Who's talking?
 ### Hi! I'm João Pedro (he/him)!
